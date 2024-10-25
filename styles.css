@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     margin: 0;
     padding: 0;
     background-color: #fff;
@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background-color: #007BFF;
+    background-color: #3cb2e3;
     color: white;
     text-align: center;
     padding: 10px 0;
@@ -40,7 +40,7 @@ h3 {
 footer {
     text-align: center;
     padding: 10px;
-    background-color: #f1f1f1;
+    background-color: #3cb2e3;
 }
 
 img {
